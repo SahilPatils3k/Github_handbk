@@ -210,12 +210,4 @@ Happy Coding! 🚀
 
 ```
 
----
 
-### ✅ How to Use:
-- Save this as `README.md` in your GitHub repo.
-- Let participants follow along.
-- Ask them to **edit the README** and **push their changes** as a practice task.
-
-Would you also like a simple slide deck for presenting this?
-```
